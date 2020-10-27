@@ -3,7 +3,7 @@
     <pageTitle title="Works"></pageTitle>
     <ul>
       <li>
-        <a href="http://shairechat.com/">
+        <a href="http://shairechat.com/" target="_blank">
         <img src="../../assets/Screen Shot 0002-10-20 at 19.51.33.png">
           <div class="content">
             <h3>ShaireChat (美容業従事者の方向けのフリマサイト)</h3>

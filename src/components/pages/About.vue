@@ -7,10 +7,10 @@
           <img src="../../assets/IMG_7157.jpeg">
         </div>
         <ul class="sns-images">
-          <li><a href="https://www.facebook.com/profile.php?id=100006111796806"><img src="../../assets/icon-facebook.svg" class="sns"></a></li>
-          <li><a href="https://www.instagram.com/naruhairdesigns"><img src="../../assets/icon-instagram.jpeg" class="sns"></a></li>
-           <li><a href="https://twitter.com/naruhairdesigns"><img src="../../assets/icon-twitter.svg" class="sns"></a></li>
-          <li><a href="https://github.com/narumichi0710"><img src="../../assets/icon-github.png" class="sns"></a></li>
+          <li><a href="https://www.facebook.com/profile.php?id=100006111796806" target="_blank"><img src="../../assets/icon-facebook.svg" class="sns"></a></li>
+          <li><a href="https://www.instagram.com/naruhairdesigns" target="_blank"><img src="../../assets/icon-instagram.jpeg" class="sns"></a></li>
+           <li><a href="https://twitter.com/naruhairdesigns" target="_blank"><img src="../../assets/icon-twitter.svg" class="sns"></a></li>
+          <li><a href="https://github.com/narumichi0710" target="_blank"><img src="../../assets/icon-github.png" class="sns"></a></li>
         </ul>
       </div>
       <ul class="content">
@@ -21,9 +21,6 @@
           <p>23</p>
           <h3>Birthplace</h3>
           <p>Osaka, Japan</p>
-
-
-
         </li>
       </ul>
     </div>
@@ -40,8 +37,6 @@ export default {
   }
 }
 </script>
-
-
 <style scoped>
 
 #about {

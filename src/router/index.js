@@ -4,8 +4,10 @@ import Home from '../views/Home.vue'
 
 Vue.use(Router)
 
-const routes = [
-  {
+export default new Router({
+  mode: 'history',
+  routes: [
+    {
     path: '/',
     name: 'Home',
     component: Home
@@ -18,4 +20,6 @@ const routes = [
     // which is lazy-loaded when the route is visited.
     component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')
   }
-]
+  ]
+  })
+
