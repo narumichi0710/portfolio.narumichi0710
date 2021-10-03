@@ -4,7 +4,7 @@
     <div class="items">
       <div class="portfolio-images">
         <div class="my-img">
-          <img src="../../assets/IMG_7157.jpeg">
+          <img src="../../assets/profile.jpeg">
         </div>
         <ul class="sns-images">
           <li><a href="https://www.facebook.com/profile.php?id=100006111796806" target="_blank"><img src="../../assets/icon-facebook.svg" class="sns"></a></li>
@@ -18,9 +18,11 @@
           <h3>Name</h3>
           <p>Narumichi Kubo</p>
           <h3>Age</h3>
-          <p>23</p>
+          <p>24</p>
           <h3>Birthplace</h3>
           <p>Osaka, Japan</p>
+          <h3>Position</h3>
+          <p>Android Developer / Server-Side Developer</p>
         </li>
       </ul>
     </div>
