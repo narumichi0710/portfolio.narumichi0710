@@ -4,7 +4,7 @@
     <div class="items">
       <div class="portfolio-images">
         <div class="my-img">
-          <img src="../../assets/profile.jpeg">
+          <img src="../../assets/profile.png">
         </div>
         <ul class="sns-images">
           <li><a href="https://www.facebook.com/profile.php?id=100006111796806" target="_blank"><img src="../../assets/icon-facebook.svg" class="sns"></a></li>
