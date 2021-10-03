@@ -26,14 +26,13 @@ export default {
       isHover: false,
       isIndex: '',
       languages: [
-        { url: 'https://cdn.svgporn.com/logos/html-5.svg', name: 'HTML', detail: 'セマンティクスとツリー構造を意識した基本的なレイアウトが書けます。' },
-        { url: 'https://cdn.svgporn.com/logos/css-3.svg', name: 'CSS', detail: '基本的なデザインが書けます。\nレスポンシブ可。' },
-        { url: 'https://cdn.svgporn.com/logos/javascript.svg', name: 'javascript', detail: 'プログラミングスクールで勉強した言語です。\nTypeScriptも勉強しており、何か制作物を作りたいです。'},
-        { url: 'https://cdn.svgporn.com/logos/vue.svg', name: 'Vue.js', detail: 'このポートフォリオサイトを開発するために勉強しました。' },
-        { url: 'https://cdn.svgporn.com/logos/php.svg', name: 'PHP', detail: '今のところ最も触っている言語です。就活用のポートフォリオはPHPで勉強しました。' },
-        { url: 'https://cdn.svgporn.com/logos/laravel.svg', name: 'laravel', detail: '今のところ最も触っているフレームワークです。\n就活用のポートフォリオはLaravelで勉強しました。' },
+        { url: 'https://cdn.svgporn.com/logos/kotlin.svg', name: 'kotlin', detail: '現在実務で利用している言語です。\n実務歴:7ヶ月程（2021年10月時点）' },
+        { url: 'https://cdn.svgporn.com/logos/php.svg', name: 'PHP', detail: '就活用のポートフォリオはPHPで学習しました。\n実務歴:半年程 （2020年12月~2021年5月）' },
+        { url: 'https://cdn.svgporn.com/logos/laravel.svg', name: 'laravel', detail: '就活用のポートフォリオはLaravelで学習しました。\n実務歴:半年程 （2020年12月~2021年5月）' },
+        { url: 'https://cdn.svgporn.com/logos/javascript.svg', name: 'javascript', detail: 'このポートフォリオサイトを開発するために学習しました。'},
+        { url: 'https://cdn.svgporn.com/logos/vue.svg', name: 'Vue.js', detail: 'このポートフォリオサイトを開発するために学習しました。' },
         { url: 'https://cdn.svgporn.com/logos/docker-icon.svg', name: 'Docker', detail: ''},
-        { url: 'https://cdn.svgporn.com/logos/aws.svg', name: 'AWS', detail: '基本的なシステム構成を理解しており、就活用のポートフォリオを開発する際に勉強しました。'},
+        { url: 'https://cdn.svgporn.com/logos/aws.svg', name: 'AWS', detail: '最低限のシステム構成を理解しており、就活用のポートフォリオを開発する際に学習しました。'},
         ]
     }
   },
