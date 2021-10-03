@@ -1,4 +1,4 @@
-# naru.portfolio.io
+# naru.portfolio.netlify
 
 > A Vue.js project
 > https://narumichi.netlify.app/
