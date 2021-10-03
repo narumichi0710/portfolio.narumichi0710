@@ -1,6 +1,7 @@
 # naru.portfolio.io
 
 > A Vue.js project
+> https://narumichi.netlify.app/
 
 ## Build Setup
 
